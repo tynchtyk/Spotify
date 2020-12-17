@@ -27,6 +27,8 @@ class MusicService : MediaBrowserServiceCompat() {
     @Inject
     lateinit var exoPlayer : SimpleExoPlayer
 
+    var isForegroundService = false
+
     private val serviceJob  = Job()
     private val serviceScope = CoroutineScope(Dispatchers.Main + serviceJob)
 
