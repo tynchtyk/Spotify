@@ -1,9 +1,9 @@
-package com.plcoding.spotifycloneyt
+package com.plcoding.spotifycloneyt.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.bumptech.glide.Glide
 import com.bumptech.glide.RequestManager
+import com.plcoding.spotifycloneyt.R
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 
@@ -11,7 +11,7 @@ import javax.inject.Inject
 class MainActivity : AppCompatActivity() {
 
     @Inject
-    lateinit var glide : RequestManager
+    lateinit var glide: RequestManager
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
