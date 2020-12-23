@@ -94,7 +94,7 @@ class MusicServiceConnection(
                 NETWORK_ERROR -> _networkError.postValue(
                     Event(
                         Resource.error(
-                            "Couldn't connect to the server. Please check your internet connection.",
+                            "No internet",
                             null
                         )
                     )
