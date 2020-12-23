@@ -2,9 +2,10 @@
 
 Simple music player app using the MVVM architectural pattern and Firebase.
 
-https://user-images.githubusercontent.com/17928064/103026377-1c2cac00-4597-11eb-9a70-2feb29cdb041.jpg
+![Screenshot_20201224-030737_SpotifyClone](https://user-images.githubusercontent.com/17928064/103026591-a117c580-4597-11eb-9ef3-4510d11fabf5.jpg)
 
-https://user-images.githubusercontent.com/17928064/103026387-20f16000-4597-11eb-846d-a0ba3138c151.jpg
+![Screenshot_20201224-030747_SpotifyClone](https://user-images.githubusercontent.com/17928064/103026654-bdb3fd80-4597-11eb-8817-10df8a75310a.jpg)
+
 
 ## References
 1. Material Design
