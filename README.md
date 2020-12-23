@@ -2,8 +2,6 @@
 
 Simple music player app using the MVVM architectural pattern and Firebase.
 
-
-
 ## References
 1. Material Design
 2. Coroutines
