@@ -2,12 +2,6 @@
 
 Simple music player app using the MVVM architectural pattern and Firebase.
 
-***
-
-<img src="https://user-images.githubusercontent.com/17928064/103026377-1c2cac00-4597-11eb-9a70-2feb29cdb041.jpg" width="250"> <img src="https://user-images.githubusercontent.com/17928064/103026387-20f16000-4597-11eb-846d-a0ba3138c151.jpg" width="250">
-
-***
-
 ## References
 1. Material Design
 2. Coroutines
@@ -16,3 +10,9 @@ Simple music player app using the MVVM architectural pattern and Firebase.
 5. Firebase
 6. Exoplayer
 7. RxKotlin / RxAndroid
+
+***
+
+<img src="https://user-images.githubusercontent.com/17928064/103026377-1c2cac00-4597-11eb-9a70-2feb29cdb041.jpg" width="250"> <img src="https://user-images.githubusercontent.com/17928064/103026387-20f16000-4597-11eb-846d-a0ba3138c151.jpg" width="250"> <img src="https://user-images.githubusercontent.com/17928064/103026425-41211f00-4597-11eb-8a9b-8fee978434e6.jpg" width="250">
+
+***
