@@ -1,6 +1,6 @@
 # SpotifyClone
 
-Simple music player app using the MVVM architectural pattern and Firebase.
+Simple music player app which follows MVVM architecture design patterns and uses Google's Firebase.
 
 ## References
 1. RxKotlin / RxAndroid
