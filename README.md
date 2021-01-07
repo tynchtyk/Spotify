@@ -1,6 +1,6 @@
 # SpotifyClone
 
-Simple music player app which follows MVVM architecture design patterns and uses Google's Firebase. This app is going to do things like getting music data from Firebase Cloud Store, handling asynchronous code using Kotlin's coroutines, concentrating data operations in a Repository class, injecting dependencies using Dagger-Hilt library, playing musics (also in backround) with exoplayer and more.
+Simple music player app which follows MVVM architecture design patterns and uses Google's Firebase. This app is going to do things like getting music data from Firebase Cloud Store, handling asynchronous code using Kotlin's coroutines, concentrating data operations in a Repository class, injecting dependencies using Dagger-Hilt library, playing musics (also in backround) with Exoplayer and etc.
 
 ## References
 1. RxKotlin / RxAndroid
